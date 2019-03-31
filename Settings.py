@@ -1,10 +1,10 @@
 class Settings:
 
-    model_name = "TestModel"
-    window_size = 20
+    model_name = "ModelName"
+    window_size = 100
     epochs = 500
     batch_size = 50
-    classes = ["20","18","16"]
+    classes = ["Apples","Oranges","Bananas"]
     dimensions = 1
 
     model_path = "Models/"
